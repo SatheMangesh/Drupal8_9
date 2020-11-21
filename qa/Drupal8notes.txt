@@ -1,0 +1,7 @@
+Question 1. Drupal 8 Unable to find install new module option after a lastest instalation of Drupal 8.*
+
+   step 1 : Check if the Update manager is module is enabled, if its not unable then enable it and Install. Go to admin panel and see if can 		  view Install new module button If its still not visibl ethen go to step 2.
+   Step 2 : If you still unable to see button Install new module then open http://yourprojectname.com/update.php
+            Use update.php utility to update your database whenever a new release of Drupal or a module is installed. Please read all the instructions before pressing Continue button.
+            Once Continue button is pressed, it will take some time to perform update opeation, On complete it wil show a message "No pending updates." 
+   Step 3: Go to admin panel and see if can view Install new module button
